@@ -1,0 +1,37 @@
+{
+  "source": "NhaVuonHienHanh-main (1).zip",
+  "measured_at": "2026-10-14",
+  "index_html_lines": 9742,
+  "sample_products": 6,
+  "dashboard_stat_cards": 5,
+  "media": {
+    "jpg": 76,
+    "mp4": 8,
+    "png": 3,
+    "total": 87,
+    "distinct_sha256": 44,
+    "duplicate_copies": 43
+  },
+  "folders": {
+    "(root)": {
+      "jpg": 2,
+      "mp4": 0,
+      "png": 3,
+      "bytes": 1322504
+    },
+    "images - Sao chép": {
+      "jpg": 35,
+      "mp4": 4,
+      "png": 0,
+      "bytes": 72956647
+    },
+    "images": {
+      "jpg": 39,
+      "mp4": 4,
+      "png": 0,
+      "bytes": 74106968
+    }
+  },
+  "uncompressed_bytes": 148386119,
+  "warning": "Static source inventory, not business analytics. No real Firebase traffic/order/revenue metrics measured."
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="348" viewBox="0 0 940 348" role="img" aria-label="Thống kê tài nguyên trong ZIP">
+  <rect width="100%" height="100%" rx="22" fill="#0b1724"/>
+  <rect x="2" y="2" width="936" height="344" rx="20" stroke="#254255" stroke-width="2" fill="none"/>
+  <text x="38" y="55" fill="#ecf8f2" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Thống kê tài nguyên trong ZIP</text>
+  <text x="38" y="85" fill="#a3b8bd" font-family="Arial, Helvetica, sans-serif" font-size="15">Số lượng tập tin media theo định dạng (bao gồm thư mục sao chép)</text>
+  <text x="42" y="139" fill="#dfedf0" font-family="Arial, sans-serif" font-size="16">Ảnh JPG</text>
+<rect x="295" y="122" rx="7" width="520" height="25" fill="#1b3446"/>
+<rect x="295" y="122" rx="7" width="520.0" height="25" fill="#4cda91"/>
+<text x="835" y="141" fill="#f0fff9" font-family="Arial, sans-serif" font-size="17" font-weight="700">76</text>
+<text x="42" y="196" fill="#dfedf0" font-family="Arial, sans-serif" font-size="16">Video MP4</text>
+<rect x="295" y="179" rx="7" width="520" height="25" fill="#1b3446"/>
+<rect x="295" y="179" rx="7" width="54.7" height="25" fill="#65b6f7"/>
+<text x="835" y="198" fill="#f0fff9" font-family="Arial, sans-serif" font-size="17" font-weight="700">8</text>
+<text x="42" y="253" fill="#dfedf0" font-family="Arial, sans-serif" font-size="16">Ảnh PNG</text>
+<rect x="295" y="236" rx="7" width="520" height="25" fill="#1b3446"/>
+<rect x="295" y="236" rx="7" width="20.5" height="25" fill="#e8c96f"/>
+<text x="835" y="255" fill="#f0fff9" font-family="Arial, sans-serif" font-size="17" font-weight="700">3</text>
+<text x="40" y="318" fill="#9ac5ba" font-family="Arial, sans-serif" font-size="15">Tổng cộng: 87 tệp media trong gói ZIP.</text>
+</svg>
